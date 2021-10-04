@@ -6,7 +6,7 @@ let cinema = `
 
       "titel" : "Spiderman",
 
-      "genre": "Adventure",
+      "genre": "Action/ Sci-fi /Adventure",
 
       "duration": "126 min.",
 
@@ -14,7 +14,8 @@ let cinema = `
 
       "starActs": "E1",
 
-      "likes" : 89
+      "likes" : 889
+
 
   }, {
 
@@ -22,7 +23,7 @@ let cinema = `
 
       "titel": "Black Panther",
 
-      "genre": "Action/Adventure",
+      "genre": "Action/ Sci-fi /Adventure",
 
       "duration": "105 min.",
 
@@ -30,7 +31,7 @@ let cinema = `
 
       "starActs": "someone",
 
-      "likes": 110
+      "likes": 910
 
   }, {
 
@@ -38,7 +39,7 @@ let cinema = `
 
       "titel": "Harry Potter",
 
-      "genre": "Adventure",
+      "genre": "Phantasy/Adventure",
 
       "duration": "142 min.",
 
@@ -46,7 +47,7 @@ let cinema = `
 
       "starActs": "Someonebad",
 
-      "likes" : 90
+      "likes" : 990
 
   },  {
 
@@ -70,7 +71,7 @@ let cinema = `
 
     "titel": "Us",
 
-    "genre": "Thriller",
+    "genre": "Thriller/Horror",
 
     "duration": "135 min.",
 
@@ -78,7 +79,7 @@ let cinema = `
 
     "starActs": "someone",
 
-    "likes": 910
+    "likes": 3910
 
 },  {
 
@@ -94,7 +95,7 @@ let cinema = `
 
     "starActs": "someone",
 
-    "likes": 140
+    "likes": 409
 
 },  {
 
@@ -118,7 +119,7 @@ let cinema = `
 
     "titel": "Ace Ventura",
 
-    "genre": "Comedy",
+    "genre": "Comedy/Animation",
 
     "duration": "105 min.",
 
@@ -126,7 +127,7 @@ let cinema = `
 
     "starActs": "Jim Carrey",
 
-    "likes": 1160
+    "likes": 160
 
 },  {
 
@@ -142,7 +143,7 @@ let cinema = `
 
     "starActs": "Eddy murphy Wesley Snipes",
 
-    "likes": 3410
+    "likes": 389
 
 },  {
 
@@ -150,7 +151,7 @@ let cinema = `
 
     "titel": "Paw Petrol",
 
-    "genre": "Action/Adventure",
+    "genre": "Animation/Adventure",
 
     "duration": "116 min.",
 
@@ -158,7 +159,7 @@ let cinema = `
 
     "starActs": "Jerry Seinfeld",
 
-    "likes": 8910
+    "likes": 578
 
 },  {
 
@@ -174,7 +175,7 @@ let cinema = `
 
     "starActs": "Eddy murphy Antonio Banderaz Camoran Diaz",
 
-    "likes": 7610
+    "likes": 797
 
 },  {
 
@@ -182,7 +183,7 @@ let cinema = `
 
     "titel": "Happy Feet",
 
-    "genre": "Comedy",
+    "genre": "Comedy/Animation",
 
     "duration": "103 min.",
 
@@ -190,7 +191,7 @@ let cinema = `
 
     "starActs": "Jim Carrey Pink Bono",
 
-    "likes": 4005
+    "likes": 740
 
 }]
 
