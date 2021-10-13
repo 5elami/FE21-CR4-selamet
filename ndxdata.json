@@ -14,7 +14,7 @@ let cinema = `
 
       "starActs": "E1",
 
-      "likes" : 889
+      "likes" : 5
 
 
   }, {
@@ -31,7 +31,7 @@ let cinema = `
 
       "starActs": "someone",
 
-      "likes": 910
+      "likes": 7
 
   }, {
 
@@ -47,7 +47,7 @@ let cinema = `
 
       "starActs": "Someonebad",
 
-      "likes" : 990
+      "likes" : 9
 
   },  {
 
@@ -63,7 +63,7 @@ let cinema = `
 
     "starActs": "Mark Wahlberg Mila Kunis Seth MacFarlane",
 
-    "likes": 710
+    "likes": 4
 
 },  {
 
@@ -79,7 +79,7 @@ let cinema = `
 
     "starActs": "someone",
 
-    "likes": 3910
+    "likes": 3
 
 },  {
 
@@ -95,7 +95,7 @@ let cinema = `
 
     "starActs": "someone",
 
-    "likes": 409
+    "likes": 4
 
 },  {
 
@@ -111,7 +111,7 @@ let cinema = `
 
     "starActs": "someone",
 
-    "likes": 240
+    "likes": 2
 
 },  {
 
@@ -127,7 +127,7 @@ let cinema = `
 
     "starActs": "Jim Carrey",
 
-    "likes": 160
+    "likes": 1
 
 },  {
 
@@ -143,7 +143,7 @@ let cinema = `
 
     "starActs": "Eddy murphy Wesley Snipes",
 
-    "likes": 389
+    "likes": 8
 
 },  {
 
@@ -159,7 +159,7 @@ let cinema = `
 
     "starActs": "Jerry Seinfeld",
 
-    "likes": 578
+    "likes": 7
 
 },  {
 
@@ -175,7 +175,7 @@ let cinema = `
 
     "starActs": "Eddy murphy Antonio Banderaz Camoran Diaz",
 
-    "likes": 797
+    "likes": 9
 
 },  {
 
@@ -191,7 +191,7 @@ let cinema = `
 
     "starActs": "Jim Carrey Pink Bono",
 
-    "likes": 740
+    "likes": 10
 
 }]
 

@@ -9,9 +9,9 @@ for (let x of data) {
     += `
     <div class="col-sm-12 col-md-6 col-lg-4 mb3">
     <img src="${x.img}" width="300vw" height="500vw"> 
-    <p class="">${x.titel}</p> 
+    <h4 class="">${x.titel}</h4> 
     <p>${x.genre}</p>
-    <div class="gef btn btn-danger">${x.likes }Likes</div>
+    <div class="gef btn btn-danger mb-3">${x.likes }Likes</div>
     
 
     </div>
